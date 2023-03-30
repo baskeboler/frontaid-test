@@ -6,7 +6,14 @@
   },
   "custom-list": [
     {
-      "custom-list-item": "item first"
+      "custom-list-item": "item first",
+      "custom-image": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "827fd306-d676-46f5-ae51-166fd72c9ca9",
+        "height": 720,
+        "width": 1280
+      }
     },
     {
       "custom-list-item": "item second"
