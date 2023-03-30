@@ -16,7 +16,14 @@
       }
     },
     {
-      "custom-list-item": "item second"
+      "custom-list-item": "item second",
+      "custom-image": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "f7de7250-ffc0-4cf4-a4c2-b9fe162afd11",
+        "height": 2000,
+        "width": 1500
+      }
     }
   ]
 }
