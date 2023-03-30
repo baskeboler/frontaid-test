@@ -6,10 +6,10 @@
   },
   "custom-list": [
     {
-      "custom-list-item": "item second"
+      "custom-list-item": "item first"
     },
     {
-      "custom-list-item": "item first"
+      "custom-list-item": "item second"
     }
   ]
 }
