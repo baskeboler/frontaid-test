@@ -18,6 +18,9 @@
     ":items": {
       "custom-list-item": {
         ":type": "line"
+      },
+      "custom-image": {
+      	":type": "image"
       }
     }
   }
