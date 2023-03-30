@@ -1,1 +1,15 @@
-{}
+{
+  "custom-field": "a description",
+  "custom-object": {
+    "custom-line": "some line",
+    "custom-text": "ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "item second"
+    },
+    {
+      "custom-list-item": "item first"
+    }
+  ]
+}
