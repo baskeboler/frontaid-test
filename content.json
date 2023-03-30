@@ -2,7 +2,7 @@
   "custom-field": "a description",
   "custom-object": {
     "custom-line": "some line",
-    "custom-text": "ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem"
+    "custom-text": "<p>ipso lorem <strong>ipso </strong>lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso <strong>lorem </strong>ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem ipso lorem <strong>ipso </strong>lorem ipso lorem ipso lorem ipso lorem</p>"
   },
   "custom-list": [
     {
